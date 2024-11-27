@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<employes>
+  <employe>
+    <id>1</id>
+    <nom>Samir</nom>
+    <prenom>Amir</prenom>
+    <poste>Développeur informatique</poste>
+    <salaire>35000.0</salaire>
+  </employe>
+  <employe>
+    <id>2</id>
+    <nom>Bakari</nom>
+    <prenom>Warda</prenom>
+    <poste>Analyste de données</poste>
+    <salaire>30000.0</salaire>
+  </employe>
+  <employe>
+    <id>3</id>
+    <nom>Mohamed</nom>
+    <prenom>Foutouh</prenom>
+    <poste>Directeur</poste>
+    <salaire>50000.0</salaire>
+  </employe>
+</employes>
